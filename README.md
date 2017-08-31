@@ -12,7 +12,7 @@ PlatziShop es un proyecto de prueba en la realización de paginas web, realizada
 - Acceso a pagina de catalogo
 - Opción a suscripción con control de errores y validación
 - Opción de filtrar productos con menú collapse para dispositivos más pequeños
-- Utilización de cards
+- Utilización de card
 
 
 ## Ejemplo
