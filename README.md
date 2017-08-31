@@ -16,7 +16,7 @@ PlatziShop es un proyecto de prueba en la realización de paginas web, realizada
 
 
 ## Ejemplo
-[https://eherna40.github.io/platzipalooza/](https://eherna40.github.io/platzipalooza/)
+[https://eherna40.github.io/platzishop/](https://eherna40.github.io/platzishop/)
 
 
 ## Créditos
